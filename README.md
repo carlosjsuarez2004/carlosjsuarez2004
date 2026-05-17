@@ -13,7 +13,7 @@
 
 <!--Subtítulo-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=EL%20ERROR%20ES%20PARTE%20DEL%20APRENDIZAJE%20🚀&fontColor=ffffff&fontSize=22&fontAlignY=60&fontFamily=Stardos%20Stencil" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=EL%20ERROR%20ES%20PARTE%20DEL%20APRENDIZAJE%20 &fontColor=ffffff&fontSize=22&fontAlignY=60&fontFamily=Stardos%20Stencil" width="100%"/>
 </div>
 
 <!--Intro-->
